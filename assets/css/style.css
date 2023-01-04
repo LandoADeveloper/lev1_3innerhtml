@@ -1,0 +1,10 @@
+figure {
+    width: 30%;
+}
+figure img {
+    width: 100%;
+}
+#gallery {
+    display: flex;
+    justify-content: space-around;
+}
